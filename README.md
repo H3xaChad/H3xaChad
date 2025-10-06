@@ -24,7 +24,7 @@ If I had to keep only 3 distros forever: **Arch**, **Debian**, **Nix**.
 ---
 
 ### 🧠 TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/H3xaChad.png" alt="TryHackMe Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1959971" style='border:none;'></iframe>
 
 ---
 
