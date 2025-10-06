@@ -1,13 +1,13 @@
-## Hey, I'm David :)
+# Hey, I'm David :)
 
-Cybersecurity |  Microcontrollers | Game modding ❤️
+### Cybersecurity |  Microcontrollers | Game modding ❤️
 
 Breaking, building, automating — and sometimes all three at once.  
 
 ## 🔧 Favorite languages & tech
 **Rust · Python · Kotlin · Svelte · Docker**
 
-This is the year of the Linux Desktop! **TempleOS > Arch > Nix > Debian > Everything else**
+### This is the year of the Linux Desktop! **TempleOS > Arch > Nix > Debian > Everything else**
 
 ### 📊 GitHub Stats
 <p align="center">
