@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hey there, I’m H3xaChad
 
-<!--
-**H3xaChad/H3xaChad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Cyber Security Enthusiast | ⚙️ Microcontroller Tinkerer | 🎮 Game Modder  
+I love exploring how things work — and occasionally how to *break* them.  
+Currently modding and automating my way through **Factorio**, **Minecraft**, and **Satisfactory**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Tech & Tools
+- 🕵️ Pen-Testing & CTFs (TryHackMe, Metasploit, Burp Suite)
+- 🧠 Embedded / Microcontrollers (Arduino, ESP32, BadUSB)
+- ⚡ Game Modding & Scripting (Lua, Python, C++)
+- ☕ Backend & Automation (Rust, Spring Boot, Bash)
+
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3xaChad&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3xaChad&layout=compact&theme=radical)
+
+---
+
+### 🧩 TryHackMe
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/H3xaChad.png)
