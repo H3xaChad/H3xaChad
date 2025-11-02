@@ -2,7 +2,7 @@
 
 # Hey, I'm David! 👋
 
-### Cybersecurity | Microcontrollers | Game modding ❤️
+### Linux | Cybersecurity | Microcontrollers | Game modding ❤️
 *Breaking, building, automating — and sometimes all three at once.*
 
 ---
